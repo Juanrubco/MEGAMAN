@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: f3cea1e2a3023f74e9138d56aa9d955a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurretDestroy_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4228e6553b27449a07485e0f72e64
+      internalID: 1852295997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 705
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210768e855cdb2f4aaac3a89486c10e5
+      internalID: 559117505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 703
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac508e1540f6b4db09dabade6e26ce
+      internalID: -950768040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 504
+        width: 153
+        height: 84
+      alignment: 9
+      pivot: {x: 0.57939655, y: 0.40197027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca80d091a9d6c4d89959b52dac9d9c
+      internalID: 95402588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 507
+        width: 120
+        height: 82
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.4138258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216b980419cf724a8ccff12b4ca7042
+      internalID: 1455039860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 502
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5103c40edac005d4395000ae88d38419
+      internalID: -772870373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 307
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5104542, y: 0.31340045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d72c48d47039d4998456c0ab776d8a
+      internalID: 74872489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 311
+        width: 91
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5177789, y: 0.3130633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b296d8c6ab155946bb62351d3cb415a
+      internalID: 1834338305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 311
+        width: 97
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.3135316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ccd2dc1ae690f4bb03ac8abbb98e3d
+      internalID: -11595141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 190
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7786fa5b6d1474c86e694a9d82fc17
+      internalID: 1178777769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 205
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82689f55fc6c57428f9b80d3760b1cf
+      internalID: 1866076242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e1eaf7ef130b244a6d9ed26d1153a8
+      internalID: -240971835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDestroy_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 134
+        width: 87
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.3137973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef2cf005f7770f4087737fd9c8f8c04
+      internalID: -1910747765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TurretDestroy_2: -950768040
+      TurretDestroy_4: 95402588
+      TurretDestroy_21: -317438729
+      TurretDestroy_27: 57601339
+      TurretDestroy_10: 1384620495
+      TurretDestroy_14: -1145811064
+      TurretDestroy_19: 1693252762
+      TurretDestroy_18: -1409638680
+      TurretDestroy_29: 1866076242
+      TurretDestroy_3: -924938042
+      TurretDestroy_28: 1178777769
+      TurretDestroy_9: -1200147735
+      TurretDestroy_23: -1634780892
+      TurretDestroy_20: 1355065470
+      TurretDestroy_6: -772870373
+      TurretDestroy_16: -1061615978
+      TurretDestroy_31: -1910747765
+      TurretDestroy_11: -316086746
+      TurretDestroy_12: 1243871359
+      TurretDestroy_8: 1638604562
+      TurretDestroy_13: 527311114
+      TurretDestroy_24: 1834338305
+      TurretDestroy_30: -240971835
+      TurretDestroy_7: 1454470975
+      TurretDestroy_26: 1976590181
+      TurretDestroy_22: -616914802
+      TurretDestroy_17: 74872489
+      TurretDestroy_25: -11595141
+      TurretDestroy_5: 1455039860
+      TurretDestroy_0: 1852295997
+      TurretDestroy_1: 559117505
+      TurretDestroy_15: -1932112229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
